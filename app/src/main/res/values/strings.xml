@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Umpire Counter</string>
+    <string name="walk">Walk!</string>
+    <string name="out">Out!</string>
+    <string name="strike_button">Strike</string>
+    <string name="ball_button">Ball</string>
+    <string name="ball_text_display">Ball:</string>
+    <string name="strike_text_display">Strike:</string>
+    <string name="counter_initial">0</string>
+    <string name="ok">OK</string>
+    <string name="aboutPage">Application created by Eric Lytle</string>
+    <string name="title_activity_about">Application Info</string>
+</resources>
